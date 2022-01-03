@@ -1,0 +1,33 @@
+Info 0    [12:09:29.231] Starting TS Server
+Info 1    [12:09:29.240] Version: 4.5.4
+Info 2    [12:09:29.240] Arguments: /home/leibniz/.nvm/versions/node/v17.3.0/bin/node /home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/tsserver.js --logFile /home/leibniz/hdd/cobra/proj/1stdiscordbot/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/87a4c3fe2063599b7ec4ffb67eea409b/tscancellation*
+Info 3    [12:09:29.241] Platform: linux NodeVersion: 17 CaseSensitive: true
+Info 4    [12:09:29.241] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [12:09:29.272] Format host information updated
+Info 6    [12:09:29.277] Search path: /home/leibniz/hdd/cobra/proj/1stdiscordbot
+Info 7    [12:09:29.278] For info: /home/leibniz/hdd/cobra/proj/1stdiscordbot/index.js :: No config files found.
+Info 8    [12:09:29.288] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 9    [12:09:32.522] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 3233.3949850000063ms
+Info 10   [12:09:32.522] Project '/dev/null/inferredProject1*' (Inferred)
+Info 11   [12:09:32.523] 	Files (167)
+
+Info 12   [12:09:32.523] -----------------------------------------------
+Info 13   [12:09:32.566] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 14   [12:09:33.579] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true structureIsReused:: Not Elapsed: 1012.6368600000133ms
+Info 15   [12:09:33.579] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 16   [12:09:33.579] 	Files (129)
+
+Info 17   [12:09:33.579] -----------------------------------------------
+Info 18   [12:09:34.342] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 19   [12:09:34.527] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 2 structureChanged: true structureIsReused:: Not Elapsed: 184.56164999998873ms
+Info 20   [12:09:34.527] Project '/dev/null/inferredProject1*' (Inferred)
+Info 21   [12:09:34.527] 	Files (246)
+
+Info 22   [12:09:34.527] -----------------------------------------------
+Info 23   [12:09:34.527] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 24   [12:09:34.527] 	Files (129)
+
+Info 25   [12:09:34.527] -----------------------------------------------
+Info 26   [12:09:36.592] Before ensureProjectForOpenFiles:
+Info 27   [12:09:36.592] After ensureProjectForOpenFiles:
+Info 28   [12:09:36.592] got projects updated in background, updating diagnostics for /home/leibniz/hdd/cobra/proj/1stdiscordbot/index.js

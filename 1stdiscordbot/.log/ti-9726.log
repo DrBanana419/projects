@@ -1,0 +1,20 @@
+[12:20:57.074] Global cache location '/home/leibniz/.cache/typescript/4.5', safe file path '/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typesMap.json
+[12:20:57.075] Processing cache location '/home/leibniz/.cache/typescript/4.5'
+[12:20:57.076] Trying to find '/home/leibniz/.cache/typescript/4.5/package.json'...
+[12:20:57.079] Loaded content of '/home/leibniz/.cache/typescript/4.5/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.573"},"devDependencies":{"@types/combined-stream":"^1.0.3","@types/d":"^1.0.1","@types/di":"^0.0.1","@types/mime-db":"^1.43.1","@types/mime-types":"^2.1.1","@types/webidl-conversions":"^6.1.1","@types/whatwg-url":"^8.2.1","@types/ws":"^8.2.2"}}
+[12:20:57.079] Loaded content of '/home/leibniz/.cache/typescript/4.5/package-lock.json'
+[12:20:57.104] Adding entry into typings cache: 'combined-stream' => '/home/leibniz/.cache/typescript/4.5/node_modules/@types/combined-stream/index.d.ts'
+[12:20:57.110] Adding entry into typings cache: 'd' => '/home/leibniz/.cache/typescript/4.5/node_modules/@types/d/index.d.ts'
+[12:20:57.113] Adding entry into typings cache: 'di' => '/home/leibniz/.cache/typescript/4.5/node_modules/@types/di/index.d.ts'
+[12:20:57.116] Adding entry into typings cache: 'mime-db' => '/home/leibniz/.cache/typescript/4.5/node_modules/@types/mime-db/index.d.ts'
+[12:20:57.119] Adding entry into typings cache: 'mime-types' => '/home/leibniz/.cache/typescript/4.5/node_modules/@types/mime-types/index.d.ts'
+[12:20:57.121] Adding entry into typings cache: 'webidl-conversions' => '/home/leibniz/.cache/typescript/4.5/node_modules/@types/webidl-conversions/index.d.ts'
+[12:20:57.125] Adding entry into typings cache: 'whatwg-url' => '/home/leibniz/.cache/typescript/4.5/node_modules/@types/whatwg-url/index.d.ts'
+[12:20:57.130] Adding entry into typings cache: 'ws' => '/home/leibniz/.cache/typescript/4.5/node_modules/@types/ws/index.d.ts'
+[12:20:57.130] Finished processing cache location '/home/leibniz/.cache/typescript/4.5'
+[12:20:57.130] Process id: 9733
+[12:20:57.130] NPM location: /home/leibniz/.nvm/versions/node/v17.3.0/bin/npm (explicit '--npmLocation' not  provided)
+[12:20:57.130] validateDefaultNpmLocation: false
+[12:20:57.131] Npm config file: /home/leibniz/.cache/typescript/4.5/package.json
+[12:20:57.131] Updating types-registry npm package...
+[12:20:57.131] Exec: /home/leibniz/.nvm/versions/node/v17.3.0/bin/npm install --ignore-scripts types-registry@latest

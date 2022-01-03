@@ -1,0 +1,35 @@
+[18:01:25.380] Global cache location '/home/leibniz/.cache/typescript/4.5', safe file path '/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typesMap.json
+[18:01:25.382] Processing cache location '/home/leibniz/.cache/typescript/4.5'
+[18:01:25.382] Trying to find '/home/leibniz/.cache/typescript/4.5/package.json'...
+[18:01:25.384] Loaded content of '/home/leibniz/.cache/typescript/4.5/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.573"}}
+[18:01:25.384] Loaded content of '/home/leibniz/.cache/typescript/4.5/package-lock.json'
+[18:01:25.384] Finished processing cache location '/home/leibniz/.cache/typescript/4.5'
+[18:01:25.385] Process id: 11172
+[18:01:25.385] NPM location: /home/leibniz/.nvm/versions/node/v17.3.0/bin/npm (explicit '--npmLocation' not  provided)
+[18:01:25.385] validateDefaultNpmLocation: false
+[18:01:25.386] Npm config file: /home/leibniz/.cache/typescript/4.5/package.json
+[18:01:25.386] Updating types-registry npm package...
+[18:01:25.386] Exec: /home/leibniz/.nvm/versions/node/v17.3.0/bin/npm install --ignore-scripts types-registry@latest
+[18:01:27.959]     Succeeded. stdout:
+    
+    up to date, audited 2 packages in 2s
+
+found 0 vulnerabilities
+
+[18:01:27.959] Updated types-registry npm package
+[18:01:28.017] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/home/leibniz/hdd/cobra/proj/1stdiscordbot/test.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/leibniz/hdd/cobra/proj/1stdiscordbot","kind":"discover"}
+[18:01:28.058] Loaded safelist from types map file '/home/leibniz/.emacs.d/.local/etc/lsp/npm/typescript/lib/node_modules/typescript/lib/typesMap.json'
+[18:01:28.059] Explicitly included types: []
+[18:01:28.061] Inferred typings from unresolved imports: []
+[18:01:28.061] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/leibniz/hdd/cobra/proj/1stdiscordbot/bower_components","/home/leibniz/hdd/cobra/proj/1stdiscordbot/node_modules"]}
+[18:01:28.061] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/leibniz/hdd/cobra/proj/1stdiscordbot/bower_components","/home/leibniz/hdd/cobra/proj/1stdiscordbot/node_modules"]}
+[18:01:28.062] DirectoryWatcher:: Added:: WatchInfo: /home/leibniz/hdd/cobra/proj/1stdiscordbot/bower_components
+[18:01:28.063] DirectoryWatcher:: Added:: WatchInfo: /home/leibniz/hdd/cobra/proj/1stdiscordbot/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[18:01:28.066] Elapsed:: 2.7586669996380806ms DirectoryWatcher:: Added:: WatchInfo: /home/leibniz/hdd/cobra/proj/1stdiscordbot/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[18:01:28.066] DirectoryWatcher:: Added:: WatchInfo: /home/leibniz/hdd/cobra/proj/1stdiscordbot/node_modules
+[18:01:28.066] DirectoryWatcher:: Added:: WatchInfo: /home/leibniz/hdd/cobra/proj/1stdiscordbot/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[18:01:28.066] Elapsed:: 0.20877400040626526ms DirectoryWatcher:: Added:: WatchInfo: /home/leibniz/hdd/cobra/proj/1stdiscordbot/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[18:01:28.067] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[18:01:28.067] Response has been sent.
+[18:01:28.067] No new typings were requested as a result of typings discovery
