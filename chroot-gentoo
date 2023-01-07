@@ -1,3 +1,7 @@
+cryptsetup open /dev/vda2 cryptroot
+mkdir /mnt/gentoo
+mount -o subvol=rootvol /dev/mapper/cryptroot /mnt/gentoo
+mount /dev/vda1 /mnt/gentoo/efi
 mount -o bind /proc /mnt/gentoo/proc
 mount --rbind /sys /mnt/gentoo/sys
 mount --make-rslave /mnt/gentoo/sys
